@@ -1,6 +1,9 @@
-### Hi there 👋
 
+<p align="center">
 ![LaptopGIF](https://user-images.githubusercontent.com/115155665/209485697-190c1c5d-b7eb-4127-8da2-275f3434bfdc.gif)
+</p>
+
+### Hi there 👋
 
 - 🌱 I'm currently learning RUST.
 - 🧵 I'm interested in machine learning, indie game development, and mathematical computing. Also have an eye on the frontend and backend development.
