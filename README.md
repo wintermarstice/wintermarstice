@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning RUST.
+- 🌱 I'm currently learning RUST.
+- 🧵 I'm interested in machine learning, indie game development, and mathematical computing. Also have an eye on the frontend and backend development.
+- 📚 I'm studying Physics.
+- 🤔 I'm looking for help with structuring my code.
+- 💬 Ask me about anything basically, provided that it is not too invasive.
+- ⚡ Fun fact: I started learning to code at age 7. No jokes, although it just was 5 lines of IntelliSense guided random keywords :D
 
 <!--
 **wintermarstice/wintermarstice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
