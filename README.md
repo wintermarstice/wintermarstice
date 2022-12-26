@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![WhatCatGIF](https://user-images.githubusercontent.com/115155665/209485530-e0ddb6fe-b69b-4934-8d3e-a3e6c1e227d7.gif)
+
 - 🌱 I'm currently learning RUST.
 - 🧵 I'm interested in machine learning, indie game development, and mathematical computing. Also have an eye on the frontend and backend development.
 - 📚 I'm studying Physics.
