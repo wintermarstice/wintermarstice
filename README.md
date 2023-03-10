@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 - 🌱 I'm currently learning RUST.
-- 🧵 I'm interested in machine learning, indie game development, and mathematical computing. Also have an eye on the frontend and backend development.
+- 🧵 I'm interested in machine learning, indie game development, and mathematical computing, also blockchains. Also have an eye on the frontend and backend development.
 - 📚 I'm studying Physics.
 - 🤔 I'm looking for help with structuring my code.
 - 💬 Ask me about anything basically, provided that it is not too invasive.
